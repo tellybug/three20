@@ -6,6 +6,8 @@ Products
 *.perspectivev3
 *.mode1v3
 .DS_Store
+*.pyc
+xcuserdata
 src/Three20/*.h
 src/Three20Core/*.h
 src/Three20Network/*.h
